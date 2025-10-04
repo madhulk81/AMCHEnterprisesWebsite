@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AMCH Enterprises",
+    "description": "",
+    "home_page_url": "https://enterprises.amch.net",
+    "feed_url": "https://enterprises.amch.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alex Hulse"
+    },
+    "items": [
+        {
+            "id": "https://enterprises.amch.net/prototype-1/",
+            "url": "https://enterprises.amch.net/prototype-1/",
+            "title": "Pen #1",
+            "summary": "The first prototype is complete! A gourgeous bespoke hardwood mechanical pencil - a future classic perhaps? Sorry - this one's not for sale&hellip;",
+            "content_html": "<p>The first prototype is complete! </p>\n<p>A gourgeous bespoke hardwood mechanical pencil - a future classic perhaps? </p>\n<p>Sorry - this one's not for sale - it's already on my wife's desk!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://enterprises.amch.net/media/posts/1/IMG_0454-2.jpeg\" alt=\"\" width=\"3613\" height=\"2757\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://enterprises.amch.net/media/posts/1/responsive/IMG_0454-2-xs.jpeg 300w ,https://enterprises.amch.net/media/posts/1/responsive/IMG_0454-2-sm.jpeg 480w ,https://enterprises.amch.net/media/posts/1/responsive/IMG_0454-2-md.jpeg 768w ,https://enterprises.amch.net/media/posts/1/responsive/IMG_0454-2-lg.jpeg 1024w ,https://enterprises.amch.net/media/posts/1/responsive/IMG_0454-2-xl.jpeg 1360w ,https://enterprises.amch.net/media/posts/1/responsive/IMG_0454-2-2xl.jpeg 1600w\"></figure>",
+            "image": "https://enterprises.amch.net/media/posts/1/IMG_0454.jpeg",
+            "author": {
+                "name": "Alex Hulse"
+            },
+            "tags": [
+                   "turning",
+                   "pencil",
+                   "pen",
+                   "bespoke"
+            ],
+            "date_published": "2025-09-20T10:24:34+01:00",
+            "date_modified": "2025-09-23T16:47:06+01:00"
+        }
+    ]
+}
